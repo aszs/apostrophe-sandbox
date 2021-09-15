@@ -10,5 +10,5 @@ This project contains overrides to automatically log the user in and to prevent 
 Deploy easily using Unfurl:
 
 <p align="center">
-  <a href="https://www.onecommons.org/images/unfurl_badge_providers_count.svg" alt="PyPI version" height="20"></a>
+  <a href="https://app.dev.onecommons.org/demo/apostrophe-demo/-/overview"><img src="https://www.onecommons.org/images/unfurl_badge_providers_count.svg" alt="Deploy on Unfurl Cloud" height="61"></a>
 </p>
