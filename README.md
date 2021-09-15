@@ -9,4 +9,6 @@ This project contains overrides to automatically log the user in and to prevent 
 
 Deploy easily using Unfurl:
 
-![Unfurl_Badge_1-2](https://user-images.githubusercontent.com/18759430/133489036-05b22234-77e7-4161-b9d2-076a74584265.png)
+<p align="center">
+  <a href="https://badge.fury.io/py/unfurl"><img src="https://gitlab.test1.onecommons.org/onecommons/demos/alpha/uploads/ae9f93d4923d3238100969518f751912/Unfurl_Badge_2.svg" alt="PyPI version" height="20"></a>
+</p>
