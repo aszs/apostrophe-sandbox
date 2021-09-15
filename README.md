@@ -9,4 +9,4 @@ This project contains overrides to automatically log the user in and to prevent 
 
 Deploy easily using Unfurl:
 
-![Unfurl_Badge_6](https://user-images.githubusercontent.com/18759430/133488028-8d048f64-cecc-4d6c-bee6-1761f738aa97.png)
+![Unfurl_Badge_1](https://user-images.githubusercontent.com/18759430/133488898-005572b4-6d91-44fc-9132-f41665553312.png)
