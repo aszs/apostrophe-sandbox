@@ -1,4 +1,4 @@
-![Unfurl_Badge_6](https://user-images.githubusercontent.com/18759430/133488002-1415c9f9-8706-48ad-85fd-c4e7758ff97f.png)
+
 # Apostrophe Sandbox
 
 This project powers the [live Apostrophe demo](http://demo.apostrophecms.org). Feel free to study it, but you're better off forking the [apostrophe boilerplate project](https://github.com/punkave/apostrophe-boilerplate) when creating new projects of your own.
