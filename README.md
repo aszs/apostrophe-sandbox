@@ -7,4 +7,5 @@ In fact, you're best off the [creating your first project](http://apostrophecms.
 
 This project contains overrides to automatically log the user in and to prevent easy editing of the `admin` account. You don't want these things in a non-demo project.
 
+Deploy easily using Unfurl:
 ![Unfurl_Badge_6](https://user-images.githubusercontent.com/18759430/133488028-8d048f64-cecc-4d6c-bee6-1761f738aa97.png)
