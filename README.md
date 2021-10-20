@@ -21,6 +21,6 @@ https://v3.docs.apostrophecms.org/guide/hosting.html
 
 Or automate deployment with [Unfurl Cloud](https://onecommons.org/unfurl-cloud):
 
-<p align="center">
+<p align="left">
   <a href="https://app.dev.onecommons.org/demo/apostrophe-demo/-/overview"><img src="https://www.onecommons.org/images/unfurl_badge_providers_count.svg" alt="Deploy on Unfurl Cloud" height="61"></a>
 </p>
