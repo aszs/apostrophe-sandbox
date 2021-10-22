@@ -11,7 +11,7 @@ This project contains overrides to automatically log the user in and to prevent 
 
 Apostrophe requires [Node.js](https://nodejs.org/en/) and [MongoDB](https://docs.mongodb.com/manual/administration/install-community/).
 
-Follow this instuctions to setup it up locally:
+Follow these instuctions to set it up locally:
 
 https://v3.docs.apostrophecms.org/guide/setting-up.html
 
